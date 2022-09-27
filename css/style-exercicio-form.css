@@ -1,0 +1,22 @@
+
+body{
+    background-color:silver;
+
+}
+h1,h3{
+    background-attachment: fixed;
+    font-family: 'Ruda', sans-serif;
+    margin-right: 1120px;
+}
+.tabesquerda{
+    background-color:gray;
+    font-family: 'Ruda', sans-serif;
+}
+.tabdireita{
+    background-color: dimgray;
+    font-family: 'Ruda', sans-serif;
+}
+.full{
+    background-color: yellow;
+    font-family: 'Ruda', sans-serif;
+}

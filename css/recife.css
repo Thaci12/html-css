@@ -1,0 +1,17 @@
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.hist{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:darkgrey;
+    border-radius: 4px;
+    width: 140px;  
+}
+.expl{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:silver;
+    border-radius: 4px;
+    width: 140px;  
+}
